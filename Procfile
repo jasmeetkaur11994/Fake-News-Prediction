@@ -1,0 +1,1 @@
+web: gunicorn app:Fake_News_Det
