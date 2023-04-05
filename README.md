@@ -1,1 +1,2 @@
-# Fake-News-Prediction
+# Fake News Prediction
+This project focuses on developing a machine learning model that can predict the authenticity of news articles using the Passive Aggressive Classifier algorithm. The model is trained on a dataset of labeled news articles and deployed using Flask, a web development framework for Python. The Flask application allows users to input news articles and get predictions on whether they are real or fake. The project involves pre-processing and feature engineering of text data, as well as training and evaluation of the machine learning model. The final product combines natural language processing, machine learning, and web development techniques to create a user-friendly and practical tool for identifying fake news.
